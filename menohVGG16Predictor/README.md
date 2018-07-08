@@ -7,3 +7,5 @@
 * [menoh](https://github.com/pfnet-research/menoh)
 
 ## Sample Image
+
+![](https://raw.githubusercontent.com/shotahirama/myoFApps/master/menohVGG16Predictor/docs/sample.png)
