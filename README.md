@@ -2,6 +2,9 @@
 
 ## openFrameworksを活用していろいろ
 
+## 環境
+* Ubuntu 16.04
+
 ### [cvtest](https://github.com/shotahirama/myoFApps/tree/master/cvtest)
 * 適当な試し
 
